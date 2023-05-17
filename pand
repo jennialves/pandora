@@ -14,14 +14,14 @@
 </head>
 <header>
     <div class="cabeçalho">
-        <h3>Amor... </h3>
+        <h3>Oiiii, é a Pandora! </h3>
     </div>
 </header>
 
 <body>
-    <h1>Namora comigo?</h1>
+    <h1>Fototeta?</h1>
     <div class="yes-or-no">
-        <button class="yes" onclick="location.href='https://www.youtube.com/watch?v=orWnzqBA63w'">Sim 🙂</button>
+        <button class="yes" onclick="location.href='https://www.youtube.com/watch?v=R3VOhexFs-o'">Sim 🙂</button>
         <button class="no" onclick="not()">Não 😔</button>
     </div>
 </body>
